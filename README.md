@@ -1,2 +1,4 @@
-# imersao-java-alura
-Durante a Imersão Java, você vai explorar as possibilidades do Java e construir um projeto incrível para ampliar o seu portfólio.
+## Imersão Java_
+## Alura
+
+Projeto em Java para estudos e práticas com a linguagem onde criamos uma aplicação de filmes ultilizando a API do IMDB.
