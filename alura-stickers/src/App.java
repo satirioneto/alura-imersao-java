@@ -82,7 +82,7 @@ public class App {
 //        }
 //    }
     static void ratingStars(double rating) {
-        for(int i = 0; i <= (int) rating; i++) {
+        for(int i = 0; i < rating; i++) {
             System.out.print("\u2B50");
         }
         System.out.println();
