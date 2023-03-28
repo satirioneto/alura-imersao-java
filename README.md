@@ -1,4 +1,4 @@
-##Alura - Imersão Java_##
+##Alura - Imersão Java_
 Este projeto consiste em uma aplicação que utiliza a API do IMDB para permitir que o usuário pesquise filmes e séries e crie stickers para WhatsApp.
 
 A aplicação possui as seguintes funcionalidades:
