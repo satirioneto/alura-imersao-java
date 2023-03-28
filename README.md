@@ -1,4 +1,5 @@
-## Alura - Imersão Java_
+![imersao-logo 1676983691](https://user-images.githubusercontent.com/68235037/228270073-f4b6c58a-b751-4749-a2e8-991bb34ceab9.png)
+---
 
 Este projeto consiste em uma aplicação que utiliza a API do IMDB para permitir que o usuário pesquise filmes e séries e crie stickers para WhatsApp.
 
